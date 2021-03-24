@@ -1,0 +1,23 @@
+<style>
+#newsky a{width:40px; height:40px; padding:0; margin:1px;}
+#newsky a.bds_more1{background:url(css2/bds_more.png) no-repeat;}
+#newsky a.bds_sqq1{background:url(no-icon) no-repeat;}
+#newsky a.bds_linkedin1{background:url(no-icon) no-repeat;}
+#newsky a.bds_tsina1{background:url(no-icon) no-repeat;}
+#newsky a.bds_weixin1{background:url(css2/bds_more.png) no-repeat;}
+</style>
+
+<div class="box"><ul class="list"><br>
+						<li><a href="hcs/lxfs.jpg" class="button weui-btn_primary cm-overlay" title="发送到手机"><font color="#ffffff" size="2">二 维 码</a></li><br>
+						<li><a href="hcs/lxfs.jpg" class="button weui-btn_primary" title="English"><font color="#ffffff" size="2">English</a></li></ul>
+						<figure><img src="hcs/hcs.png" alt="胡春生资料"></figure></div>
+
+
+<style>
+ul,p{margin:0;padding:0;}
+li{list-style:none;}
+.box .img{float:center;}
+.box .list{float:right;margin-left:0px;display:inline;}
+.box .list li{line-height:24px;font-size:14px;}
+.list li{font-weight:bold;color:#FFFFFF}
+</style>

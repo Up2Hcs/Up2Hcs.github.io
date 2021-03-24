@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:胡春生
+ORG:XXX公司;产品部
+TITLE:产品经理
+TEL;TYPE=CELL,VOICE:18010411412
+EMAIL;TYPE=PREF,INTERNET:newsky522@qq.com
+X-QQ:Up2Hcs
+ADR;TYPE=WORK:;;北京市 朝阳区 苹果社区
+item1.URL:http://huchunsheng.cn/v
+item1.X-ABLABEL:个人名片
+END:VCARD
