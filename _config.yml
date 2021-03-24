@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: git@github.com:Up2Hcs/Up2Hcs.github.io.git
+  branch: main
